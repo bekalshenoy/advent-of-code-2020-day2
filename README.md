@@ -1,2 +1,1 @@
-# advent-of-code-2020-day2
- 
+# day2 solution of advent of code 2020
